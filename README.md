@@ -1,6 +1,6 @@
 ## Hi there, I am Junior QA Specialist 👋 
 
-<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" height="150">
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" height="170">
 
 ## About me
   My passion for technology and software testing  drives me to seek out new challenges and opportunities to learn and grow. I am an excellent problem solver and work well with cross-functional teams to deliver high quality solutions that meet business objectives.
