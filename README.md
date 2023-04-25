@@ -14,12 +14,19 @@
 - Mobile testing
 - Rest API
 - DevTools
+- Exel
 - SQL
 - GIT
 
 ## Portfolio
 
 - [Test case Raynair](https://drive.google.com/file/d/1miFdHR9IYfKKL5zPmswtTeCq1uK7tyms/view?usp=share_link) - The purpose of the test case is to check that the PL/EN/PL languages change steadily on the site.
+
+- [Test case Mystore [W42-649]](https://drive.google.com/drive/u/0/folders/1RDi-zj6hPvri7g_AagHWk13ronrw2dBy) - Ordering on the website (test environment) [Jira, PL].
+
+- [Test case Mystore [W42-648]](https://drive.google.com/drive/u/0/folders/1RDi-zj6hPvri7g_AagHWk13ronrw2dBy) - Adding a product to the cart (test environment) [Jira, PL].
+
+- [Checklist for the website Mystore]( https://docs.google.com/spreadsheets/d/1qYY1Wy7LsDGLKEptM9K4lLHZPrymAsnoXD6PVxO5Ta4/edit#gid=0) - Creating a checklist and testing on its basis, reporting bugs (test environment) [Exel, DevTools, PL].
 
 
 ## Certificate
